@@ -11,14 +11,14 @@ import Contact from './components/Contact';
 function App() {
   // Central Data Object
   const userData = {
-    name: 'Ondaipe Larry',
+    name: 'Umeaku Ebubechukwu',
     title: 'Frontend Developer & UI Designer',
     bio: 'I build accessible, responsive, and visually stunning web applications using modern technologies.',
-    email: 'amara@example.com',
+    email: 'vanyapraise@example.com',
     phone: '+234 800 000 0000',
-    location: 'Lagos, Nigeria',
-    github: 'github.com/amara-codes',
-    linkedin: 'linkedin.com/in/amara'
+    location: 'Ogun, Nigeria',
+    github: 'github.com/vanya-codes',
+    linkedin: 'linkedin.com/in/vanya'
   };
 
   return (
